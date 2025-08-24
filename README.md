@@ -1,6 +1,6 @@
 # @worktionary/workfriends 👍👍
 
-Ooh work friends. A simple utility to check if email addresses to infer if they are work friends.
+Ooh work friends. A simple utility to check email addresses to infer if they are work friends.
 
 ![Ooh friend](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVibXB4bmZnczkzcndic2Z6NW56b2x3anRub2FkaGIzeTBtOTlpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UrMSH5YXfLpgA/giphy.gif)
 
