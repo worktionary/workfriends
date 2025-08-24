@@ -1,0 +1,45 @@
+{
+	"name": "@worktionary/workfriends",
+	"version": "0.0.1",
+	"description": "Ooh work friends. Check if email addresses are from the same domain to infer if they're work friends.",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc --project tsconfig.build.json",
+		"test": "jest",
+		"prepublishOnly": "npm run build"
+	},
+	"keywords": [
+		"email",
+		"domain",
+		"work-friends",
+		"colleagues",
+		"teammates",
+		"workplace",
+		"internal",
+		"corporate",
+		"b2b",
+		"enterprise"
+	],
+	"author": {
+		"name": "George Drury",
+		"email": "george@worktionary.com",
+		"url": "https://www.worktionary.com"
+	},
+	"homepage": "https://www.worktionary.com",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/worktionary/workfriends.git"
+	},
+	"license": "MIT",
+	"files": [
+		"dist"
+	],
+	"sideEffects": false,
+	"devDependencies": {
+		"@types/jest": "^30.0.0",
+		"jest": "^30.0.5",
+		"ts-jest": "^29.0.0",
+		"typescript": "^5.9.2"
+	}
+}
